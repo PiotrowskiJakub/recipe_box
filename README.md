@@ -1,4 +1,4 @@
-== recipe_box
+[Recipe Box](https://polar-cove-98389.herokuapp.com/)
 
 Application with cooking inspirations.
 
@@ -8,7 +8,6 @@ Rails version = 4.2.5.1
 
 [Application on Heroku](https://polar-cove-98389.herokuapp.com/)
 
-Application website
 Run application:
 * get to the app directory
 * bundle install
